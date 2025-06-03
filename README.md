@@ -21,10 +21,15 @@ Connected TheHive to external threat intel sources (e.g., MISP, VirusTotal) to a
 ### Tools Used
 
 -Wazuh – Open-source SIEM for log analysis, intrusion detection, and compliance monitoring
+
 -TheHive – Scalable and collaborative incident response platform for case management
+
 -Cortex – Automated analysis engine connected to TheHive for running enrichment and response actions
+
 -Elasticsearch – Backend search engine supporting Wazuh's data indexing and querying
+
 -Kibana – Data visualization dashboard for viewing and analyzing security events from Wazuh
+
 -Logstash – Data processing pipeline for collecting, parsing, and forwarding logs
 
 ## Steps
