@@ -35,3 +35,6 @@ Connected TheHive to external threat intel sources (e.g., MISP, VirusTotal) to a
 ## Steps
 
 *Ref 1: Network Diagram*
+
+![Topology](https://github.com/user-attachments/assets/00854551-af95-4bf3-839e-5003b8e6401d)
+
